@@ -1,0 +1,15 @@
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\bin\Debug\Pj_Thread_WPF.exe.config
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\bin\Debug\Pj_Thread_WPF.exe
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\bin\Debug\Pj_Thread_WPF.pdb
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\MainWindow.g.cs
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\App.g.cs
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF_MarkupCompile.cache
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF_MarkupCompile.lref
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\MainWindow.baml
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.g.resources
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.Properties.Resources.resources
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.csproj.GenerateResource.cache
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.csproj.CoreCompileInputs.cache
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.exe
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.pdb
+D:\2-Points\C#-knowledge-points\Pj_Thread\Pj_Thread_WPF\obj\Debug\Pj_Thread_WPF.csprojAssemblyReference.cache
